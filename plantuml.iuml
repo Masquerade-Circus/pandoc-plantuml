@@ -1,0 +1,6 @@
+@startuml
+participant John as "John Doe"
+participant Jane as "Jane Doe"
+
+John --> Jane: Hello world
+@enduml
